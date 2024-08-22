@@ -2,11 +2,13 @@ import tkinter
 from tkinter import *
 from tkinter import ttk 
 
-#cores
+# cores
 co1 = '#dac9df' #lilas
 co2 = '#ffffff' #branco
 co3 = '#81638b' #lilas escuro 
 co4 = '#000000' #preto
+
+# criando a janela e seu tamanho
 
 janela = Tk()
 janela.geometry("400x310")
